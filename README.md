@@ -21,10 +21,10 @@
 <a href="https://github.com/mauricegift"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mauricegift?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mauricegift?label=Followers&style=social"></a>
-<a href="https://github.com/mauricegift/SIGMA-MDXI/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mauricegift/SIGMA-MDXI?&style=social"></a>
-<a href="https://github.com/mauricegift/SIGMA-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mauricegift/SIGMA-MDXI?style=social"></a>
-<a href="https://github.com/mauricegift/SIGMA-MDXI/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mauricegift/SIGMA-MDXI?label=Watching&style=social"></a>
+<a href="https://github.com/mauricegift?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/muzantech?label=Followers&style=social"></a>
+<a href="https://github.com/mauricegift/SIGMA-MDXI/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/muzantech/SIGMA-MDXI-V2?&style=social"></a>
+<a href="https://github.com/mauricegift/SIGMA-MDXI/network/members"><img title="Forks" src="https://img.shields.io/github/forks/muzantech/SIGMA-MDXI-V2?style=social"></a>
+<a href="https://github.com/mauricegift/SIGMA-MDXI/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/muzantech/SIGMA-MDXI-V2?label=Watching&style=social"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
@@ -36,7 +36,7 @@
   
 - This is essential for you to obtain your own safe forked deployable repo especially heroku users.
 
-<a href="https://github.com/mauricegift/SIGMA-MDXI/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK SIGMA-MDXI" width="150"></a>
+<a href="https://github.com/muzantech/SIGMA-MDXI-V2/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK SIGMA-MDXI" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -57,7 +57,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-white" alt="Pairing Code" width="150"></a>
   
-<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy Gifted" width="150"></a>
+<a href="https://session.giftedtech.my.id/auth"><img src="https://img.shields.io/badge/DEPLOY%20NOW-red" alt="Deploy SIG" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -87,7 +87,7 @@
 <summary>TAP TO OPEN</summary>
 <a href="https://app.koyeb.com/auth/signup"><img src="https://img.shields.io/badge/KOYEB%20SIGNUP-purple" alt="Koyeb" width="150"></a>
 
-<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmauricegift%2Fgifted-md&branch=main&name=SIGMA-MDXI&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
+<a href="https://app.koyeb.com/services/deploy/?type=git&repository=github.com%2Fmuzantech%2FSIGMA-MDXI-V2&branch=main&name=SIGMA-MDXI&builder=dockerfile&env%5BAUTO_BLOCK=false%5D=&env%5BSESSION_ID%5D=your%20sessionid%20here&env%5BMODE%5D=private&env=%5BAUTO_READ%5D%3Dfalse&env%5BAUTO_READ_STATUS%5D=true"><img src="https://img.shields.io/badge/DEPLOY%20NOW-black" alt="Koyeb Tutorial" width="150"></a>
 </details>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -95,7 +95,7 @@
 **(E) BOT HOSTING PANEL🔥(DISCORD) DEPLOYMENT**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://github.com/mauricegift/SIGMA-MDXI/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/muzantech/SIGMA-MDXI-V2/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 
@@ -119,6 +119,6 @@
 
 ### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
 
-[![SIGMA-MDXI](https://api.star-history.com/svg?repos=mauricegift/SIGMA-MDXI&type=Timeline)](#)
+[![SIGMA-MDXI](https://api.star-history.com/svg?repos=muzantech/SIGMA-MDXI-V2&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
