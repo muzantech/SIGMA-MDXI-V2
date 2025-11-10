@@ -129,7 +129,7 @@ async function startGifted() {
         const giftedSock = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['SIGMA-MDXI'], "safari", "1.0.0"],
+            browser: ['GIFTED', "safari", "1.0.0"],
             auth: {
                 creds: state.creds,
                 keys: makeCacheableSignalKeyStore(state.keys, logger)

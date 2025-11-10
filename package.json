@@ -9,9 +9,9 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --name SIGMA-MDXI",
-    "stop": "pm2 stop SIGMA-MDXI",
-    "restart": "pm2 restart SIGMA-MDXI"
+    "start": "pm2 start index.js --name giftedmd",
+    "stop": "pm2 stop giftedmd",
+    "restart": "pm2 restart giftedmd"
   },
   "keywords": [
     "SIGMA-MDXI",
