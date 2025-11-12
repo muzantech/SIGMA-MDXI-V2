@@ -117,8 +117,15 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘 
+### 𝟓. 𝐑𝐄𝐏𝐎 𝐒𝐓𝐀𝐑 𝐇𝐈𝐒𝐓𝐎𝐑𝐘
 
 [![SIGMA-MDXI](https://api.star-history.com/svg?repos=muzantech/SIGMA-MDXI-V2&type=Timeline)](#)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### 𝟔. 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐈𝐎𝐍𝐀𝐋 𝐑𝐔𝐍𝐓𝐈𝐌𝐄 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄
+
+- **Modular Startup** – `index.js` now bootstraps an HTTP status server and the WhatsApp runtime through independent services found in `src/server/httpServer.js` and `src/bot/runtime.js`. This separation keeps the bot portable across hosting platforms.
+- **Structured Logging** – A dedicated logger factory (`src/utils/logger.js`) powers contextual logs with configurable levels through the `LOG_LEVEL` environment variable.
+- **Resilience Controls** – Tune reconnection behaviour with `MAX_RECONNECT_ATTEMPTS` and `RECONNECT_DELAY_MS` environment variables to match your infrastructure needs.
+- **Graceful Failure Handling** – Global process listeners capture and report uncaught exceptions and rejected promises so deployments remain observable in production.
